@@ -34,14 +34,6 @@
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-Singh-30&theme=tokyonight" alt="Vishal-Singh-30" />
 <br/>
 
-
-# 📊 Stats:
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vishal-Singh-30&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 40%; margin-right: 2%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-Singh-30&theme=gruvbox&hide_border=false" alt="GitHub Streak" style="width: 44%;">
-</div>
-<br/>
-
 ----
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Zangetsu11/Zangetsu11/output/snake.svg" alt="Snake animation" />
