@@ -17,7 +17,7 @@
 <br/>
 
 <h2> Github Stats </h2> 
-<a href="https://github.com/Vishal-Singh-30/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Singh-30&layout=compact&theme=tokyonight" /></a>
+<a href="https://github.com/Vishal-Singh-30/github-readme-stats"><img align="left" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Singh-30&layout=compact&theme=tokyonight" /></a>
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-Singh-30&theme=tokyonight" alt="Vishal-Singh-30" />
 <br/>
 
