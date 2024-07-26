@@ -23,5 +23,5 @@
 
 ----
 <br clear="both">
-<img src="https://raw.githubusercontent.com/Zangetsu11/Zangetsu11/output/snake.svg" alt="Snake animation" />
+<img src="Snake Game.svg" alt="Snake animation" />
 
