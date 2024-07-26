@@ -23,5 +23,5 @@
 
 ----
 <br clear="both">
-<img src="Snake Game Dark.svg" alt="Snake animation" />
+<img src="DARK GAME.svg" alt="Snake animation" />
 
