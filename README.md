@@ -36,5 +36,9 @@
 </div>
 <br/>
 
+----
+<br clear="both">
+<img src="https://raw.githubusercontent.com/Zangetsu11/Zangetsu11/output/snake.svg" alt="Snake animation" />
+
 # Ideology
 <img src="https://i.imgur.com/v00J3Kt.jpeg" alt="Random Dev Quote" width="400" align="justify">
