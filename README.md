@@ -37,9 +37,9 @@
 
 <br/>
 
----
-<br clear="both">
-<img src="grid-snake-dark.svg" alt="Snake animation" 
+![Snake Animation](./grid-snake-dark.svg)
+
+
 
 
 
