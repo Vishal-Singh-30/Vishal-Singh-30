@@ -17,14 +17,17 @@
 <br/>
 
 <h2>Github Stats</h2>
-<a href="https://github.com/Vishal-Singh-30/github-readme-stats">
-  <img align="centre" width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Singh-30&layout=compact&theme=vision-friendly-dark" />
-</a>
-<img align="centre" width="500" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-Singh-30&theme=vision-friendly-dark" alt="Vishal-Singh-30" />
 
-  <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+<p align="centre">
+    <img  width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Singh-30&layout=compact&theme=vision-friendly-dark" />   
 </p>
+
+<p align="centre">
+    <img align="centre" width="500" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-Singh-30&theme=vision-friendly-dark" alt="Vishal-Singh-30" />  
+</p>
+
+
+
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Vishal-Singh-30&show_icons=true&theme=vision-friendly-dark">
