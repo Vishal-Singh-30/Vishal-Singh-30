@@ -37,7 +37,11 @@
 
 <br/>
 
-![Snake Animation](./grid-snake-dark.svg)
+<p align="center">
+ <img width="1000" src="./grid-snake-dark.svg" alt="snake"/>
+</p>
+
+
 
 
 
