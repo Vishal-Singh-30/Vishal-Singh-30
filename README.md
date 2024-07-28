@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 <h1 align="center">Hi 👋, I'm Vishal Singh</h1>
 <h3 align="center">A passionate Full-stack developer from India.</h3>
 
@@ -41,9 +42,4 @@
  <img width="1000" src="./grid-snake-dark.svg" alt="snake"/>
 </p>
 
-
-
-
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
