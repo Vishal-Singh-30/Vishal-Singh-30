@@ -41,5 +41,4 @@
 <p align="center">
  <img width="1000" src="./grid-snake-dark.svg" alt="snake"/>
 </p>
-1B03A3
-<img src="https://capsule-render.vercel.app/api?type=waving&=color=0:1B03A3,100:000000&height=110&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&=color=0:39FF14,100:000000&height=110&section=footer" width="100%">
