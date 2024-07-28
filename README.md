@@ -31,7 +31,7 @@
 </p>
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vishal-Singh-30&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Vishal-Singh-30&style=for-the-badge&color=39ff14" alt=""/>
 </div>
 
 
