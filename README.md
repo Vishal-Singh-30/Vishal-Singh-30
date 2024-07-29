@@ -35,7 +35,6 @@
   <img src="https://komarev.com/ghpvc/?username=Vishal-Singh-30&style=for-the-badge&color=brightgreen" alt=""/>
 </div>
 
-
 <br/>
 
 <p align="center">
