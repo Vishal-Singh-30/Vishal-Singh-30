@@ -20,15 +20,15 @@
 <h2>Github Stats</h2>
 
 <p align="center">
-    <img  width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Singh-30&layout=compact&theme=chartreuse-dark" />   
+    <img  width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=Vishal-Singh-30&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" />   
 </p>
 
 <p align="center">
-    <img align="centre" width="500" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-Singh-30&theme=chartreuse-dark" alt="Vishal-Singh-30" />  
+    <img align="centre" width="500" height="200" src="https://nirzak-streak-stats.vercel.app/?user=Vishal-Singh-30&theme=gotham&hide_border=false" />  
 </p>
 
 <p align="center">
-    <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Vishal-Singh-30&show_icons=true&theme=chartreuse-dark">
+    <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Singh-30&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
 
 <div id="header" align="center">
