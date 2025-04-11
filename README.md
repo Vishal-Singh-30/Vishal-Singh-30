@@ -7,7 +7,7 @@
   </p>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="48" height="48" /> About Me
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="48" height="48" /> About Me
 
 I am Vishal Singh, a final-year Bachelor of Technology student specializing in Computer Science and Engineering at Bennett University (Times of India Group). Currently based in Delhi, I am actively seeking full-time opportunities in software development within the Delhi NCR region.
 
