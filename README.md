@@ -3,7 +3,7 @@
 ![Github Banner](/2.png)
 <div align="center">
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Vishal-Singh-30&style=for-the-badge&color=00BFFF" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=Vishal-Singh-30&style=for-the-badge&color=87ACFF" alt="Profile views"/>
   </p>
 </div>
 
