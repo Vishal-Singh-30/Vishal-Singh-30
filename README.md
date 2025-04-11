@@ -43,6 +43,7 @@ My technical expertise and academic background have prepared me for professional
 
 ## 💻 Tech Stack
 
+<div style="overflow-x: auto;">
 <table>
   <tr>
     <td align="center"><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html5-logo-dom-markup-language-frontend-coding-lang-pack-logos-icons-7578018.png" width="60" height="60" alt="HTML5"/><br/><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">HTML5</a></td>
@@ -80,7 +81,7 @@ My technical expertise and academic background have prepared me for professional
     <td align="center"><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-chatgpt-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-brand-social-media-and-pack-logos-icons-9940790.png?f=webp" width="60" height="60" alt="ChatGPT API"/><br/><a href="https://platform.openai.com/" target="_blank">ChatGPT</a></td>
   </tr>
 </table>
-
+</div>
 
 
 
