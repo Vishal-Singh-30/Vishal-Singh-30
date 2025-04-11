@@ -9,11 +9,11 @@
 
 ## 💫 About Me
 
-I am Vishal Singh, a final-year Bachelor of Technology student in Computer Science and Engineering at Bennett University (Times of India Group).  
-Based in Delhi, I am actively seeking employment opportunities within the Delhi NCR region.
+I am Vishal Singh, a final-year Bachelor of Technology student specializing in Computer Science and Engineering at Bennett University (Times of India Group). Currently based in Delhi, I am actively seeking full-time opportunities in software development within the Delhi NCR region.
 
-As a Full-Stack Developer, I possess a specialized interest in NEXT.js 15 and its implementation in modern web development solutions.  
-My technical expertise and academic background have prepared me for professional challenges in software development, and I am eager to contribute my skills to innovative projects.
+With a strong foundation in full-stack development, I bring hands-on experience in building modern, scalable web applications. My core expertise lies in working with cutting-edge technologies such as Next.js 15, which I am particularly passionate about due to its powerful capabilities in developing dynamic, high-performance user interfaces.
+
+Driven by a deep interest in both frontend and backend technologies, I am eager to contribute to innovative teams and projects that value clean code, collaborative problem-solving, and user-centric design.
 
 ## 🌐 Connect With Me
 
