@@ -45,7 +45,7 @@ My technical expertise and academic background have prepared me for professional
 
 <div align="center">
   <h3>Languages</h3>
-  <p align="left">
+  <p align="centre">
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"></a>
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
