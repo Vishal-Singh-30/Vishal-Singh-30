@@ -80,4 +80,5 @@ My technical expertise and academic background have prepared me for professional
   <img width="100%" src="./grid-snake-dark.svg" alt="Contribution Snake Animation"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:000000&height=120&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8EFFF,50:B8CEFF,100:86ACFF&height=120&section=footer&animation=none" width="100%">
+
