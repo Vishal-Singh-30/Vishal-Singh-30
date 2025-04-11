@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=350&text=Vishal%20Singh&animation=twinkling&colors=bbdefb,e1bee7,f8bbd0" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=350&text=Vishal%20Singh&animation=twinkling&color=gradient&colors=d2d9fb,dee5f9,e8efff" width="100%">
 
 ![Github Banner](/2.png)
 <div align="center">
