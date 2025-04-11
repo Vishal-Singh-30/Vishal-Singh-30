@@ -26,7 +26,7 @@ My technical expertise and academic background have prepared me for professional
     <img src="https://dreamfoundry.org/wp-content/uploads/2018/12/instagram-logo-png-transparent-background.png" alt="Instagram"/>
   </a>
   <a href="https://x.com/GID30N_x" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
+    <img src="https://icon2.cleanpng.com/20240119/rp/transparent-x-logo-cross-design-black-and-white-photograph-sim-black-and-white-cross-with-letters-x-and-1710898892931.webp" alt="X"/>
   </a>
   <a href="https://medium.com/@mailtovishal30" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
