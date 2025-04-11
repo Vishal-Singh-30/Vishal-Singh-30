@@ -2,7 +2,6 @@
 
 ![Github Banner](/2.png)
 <div align="center">
-  <h1>✨ Vishal Singh</h1>
   <p>
     <img src="https://komarev.com/ghpvc/?username=Vishal-Singh-30&style=flat-square&color=39FF14" alt="Profile views"/>
   </p>
