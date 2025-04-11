@@ -43,11 +43,14 @@ My technical expertise and academic background have prepared me for professional
 
 ## 💻 Tech Stack
 
+![image](https://github.com/user-attachments/assets/ff3393e9-ab8a-43dc-a353-92f22e559f9b)
+![image](https://github.com/user-attachments/assets/807e5504-9bad-4d0b-91ac-144e2d2db729)
+
+
 <div align="center">
   <h3>Languages</h3>
   <p align="center">
-  ![image](https://github.com/user-attachments/assets/ff3393e9-ab8a-43dc-a353-92f22e559f9b)
-  ![image](https://github.com/user-attachments/assets/807e5504-9bad-4d0b-91ac-144e2d2db729)
+  
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
