@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Vishal%20Singh&animation=none&color=0:E8EFFF,50:B8CEFF,100:86ACFF&fontColor=FFFFFF" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Vishal%20Singh&animation=none&color=0:E8EFFF,50:B8CEFF,100:#61DAFB&fontColor=FFFFFF" width="100%">
 
 ![Github Banner](/2.png)
 <div align="center">
@@ -101,5 +101,5 @@ My technical expertise and academic background have prepared me for professional
   <img width="100%" src="./grid-snake-dark.svg" alt="Contribution Snake Animation"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8EFFF,50:B8CEFF,100:86ACFF&height=120&section=footer&animation=none" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8EFFF,50:B8CEFF,100:#61DAFB&height=120&section=footer&animation=none" width="100%">
 
