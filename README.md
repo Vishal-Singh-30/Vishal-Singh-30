@@ -15,7 +15,7 @@ With a strong foundation in full-stack development, I bring hands-on experience 
 
 Driven by a deep interest in both frontend and backend technologies, I am eager to contribute to innovative teams and projects that value clean code, collaborative problem-solving, and user-centric design.
 
-# <div align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="25" height="25" /> <div>Connect With Me</div></div> 
+# <div align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="64" height="64" /> <div>Connect With Me</div></div> 
 
 <div align="center">
   <a href="https://linkedin.com/in/vishal-singh-at-work" target="_blank">
