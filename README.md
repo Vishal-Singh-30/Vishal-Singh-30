@@ -20,7 +20,7 @@ My technical expertise and academic background have prepared me for professional
 
 <div align="center">
   <a href="https://linkedin.com/in/vishal-singh-at-work" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <i class="ci ci-linkedin"></i>
   </a>
   <a href="https://instagram.com/___vishal.x___" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
