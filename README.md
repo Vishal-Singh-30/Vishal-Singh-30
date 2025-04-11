@@ -96,7 +96,7 @@ Driven by a deep interest in both frontend and backend technologies, I am eager 
 <br/>
 
 <div align="center">
-  <img width="100%" src="./grid-snake-light.gif" alt="Contribution Snake Animation"/>
+  <img width="100%" src="./light-snake.gif" alt="Contribution Snake Animation"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8EFFF,50:B8CEFF,100:86ACFF&height=120&section=footer&animation=none" width="100%">
