@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:000000&height=120&section=header" width="100%">
 
+![Github Banner](/2.png)
+
 <div align="center">
   <h1>✨ Vishal Singh</h1>
   <p>
