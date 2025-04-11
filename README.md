@@ -32,7 +32,7 @@ My technical expertise and academic background have prepared me for professional
     <img src="https://cdn.freebiesupply.com/images/large/2x/medium-icon-white-on-black.png" alt="Medium"/>
   </a>
   <a href="mailto:mailtovishalsingh30@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/non_2x/gmail-icon-free-png.png" alt="Email"/>
   </a>
 </div>
 
