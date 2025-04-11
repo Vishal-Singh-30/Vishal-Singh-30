@@ -39,8 +39,10 @@ Driven by a deep interest in both frontend and backend technologies, I am eager 
   </a>
 </div>
 
-
-## 💻 Tech Stack
+# <div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="64" height="64" />
+<div>My Tech Stack</div>
+</div> 
 
 <div style="overflow-x: auto;">
 <table>
