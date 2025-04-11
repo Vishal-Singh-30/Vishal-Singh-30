@@ -23,7 +23,7 @@ My technical expertise and academic background have prepared me for professional
    <img src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="Linkedin"/>
   </a>
   <a href="https://instagram.com/___vishal.x___" target="_blank">
-    <img src="https://img.freepik.com/premium-vector/instagram-vector-logo-icon-social-media-logotype_901408-392.jpg?semt=ais_hybrid&w=740" alt="Instagram"/>
+    <img src="https://dreamfoundry.org/wp-content/uploads/2018/12/instagram-logo-png-transparent-background.png" alt="Instagram"/>
   </a>
   <a href="https://x.com/GID30N_x" target="_blank">
     <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
