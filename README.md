@@ -29,7 +29,7 @@ My technical expertise and academic background have prepared me for professional
     <img src="https://static.vecteezy.com/system/resources/previews/042/148/611/non_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" alt="X"/>
   </a>
   <a href="https://medium.com/@mailtovishal30" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://cdn.freebiesupply.com/images/large/2x/medium-icon-white-on-black.png" alt="Medium"/>
   </a>
   <a href="mailto:mailtovishalsingh30@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
