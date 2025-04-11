@@ -18,24 +18,24 @@ My technical expertise and academic background have prepared me for professional
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<h3 align="center">🌐 Connect With Me</h3>
+<p align="center">
   <a href="https://linkedin.com/in/vishal-singh-at-work" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="Linkedin" width="32px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" style="margin: 0 10px;" />
   </a>
   <a href="https://instagram.com/___vishal.x___" target="_blank">
-    <img src="https://dreamfoundry.org/wp-content/uploads/2018/12/instagram-logo-png-transparent-background.png" alt="Instagram" width="32px"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="32" height="32" style="margin: 0 10px;" />
   </a>
   <a href="https://x.com/GID30N_x" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/042/148/611/non_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" alt="X" width="32px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X" width="32" height="32" style="margin: 0 10px;" />
   </a>
   <a href="https://medium.com/@mailtovishal30" target="_blank">
-    <img src="https://cdn.freebiesupply.com/images/large/2x/medium-icon-white-on-black.png" alt="Medium" width="32px"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111505.png" alt="Medium" width="32" height="32" style="margin: 0 10px;" />
   </a>
   <a href="mailto:mailtovishalsingh30@gmail.com" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/non_2x/gmail-icon-free-png.png" alt="Email" width="32px"/>
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="Email" width="32" height="32" style="margin: 0 10px;" />
   </a>
-</div>
-
+</p>
 
 ## 💻 Tech Stack
 
