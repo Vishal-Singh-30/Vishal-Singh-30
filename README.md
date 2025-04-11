@@ -18,22 +18,25 @@ My technical expertise and academic background have prepared me for professional
 
 ## 🌐 Connect With Me
 
-<h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/vishal-singh-at-work" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" style="margin: 0 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/___vishal.x___" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="32" height="32" style="margin: 0 10px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/GID30N_x" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X" width="32" height="32" style="margin: 0 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@mailtovishal30" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111505.png" alt="Medium" width="32" height="32" style="margin: 0 10px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111505.png" alt="Medium" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mailtovishalsingh30@gmail.com" target="_blank">
-    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="Email" width="32" height="32" style="margin: 0 10px;" />
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="Email" width="40" />
   </a>
 </p>
 
