@@ -20,21 +20,22 @@ My technical expertise and academic background have prepared me for professional
 
 <div align="center">
   <a href="https://linkedin.com/in/vishal-singh-at-work" target="_blank">
-   <img src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="Linkedin"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="Linkedin" width="32px"/>
   </a>
   <a href="https://instagram.com/___vishal.x___" target="_blank">
-    <img src="https://dreamfoundry.org/wp-content/uploads/2018/12/instagram-logo-png-transparent-background.png" alt="Instagram"/>
+    <img src="https://dreamfoundry.org/wp-content/uploads/2018/12/instagram-logo-png-transparent-background.png" alt="Instagram" width="32px"/>
   </a>
   <a href="https://x.com/GID30N_x" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/042/148/611/non_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" alt="X"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/042/148/611/non_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" alt="X" width="32px"/>
   </a>
   <a href="https://medium.com/@mailtovishal30" target="_blank">
-    <img src="https://cdn.freebiesupply.com/images/large/2x/medium-icon-white-on-black.png" alt="Medium"/>
+    <img src="https://cdn.freebiesupply.com/images/large/2x/medium-icon-white-on-black.png" alt="Medium" width="32px"/>
   </a>
   <a href="mailto:mailtovishalsingh30@gmail.com" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/non_2x/gmail-icon-free-png.png" alt="Email"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/non_2x/gmail-icon-free-png.png" alt="Email" width="32px"/>
   </a>
 </div>
+
 
 ## 💻 Tech Stack
 
